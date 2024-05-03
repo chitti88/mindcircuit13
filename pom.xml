@@ -18,12 +18,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://54.209.158.188:8081/repository/b13-repo/</url>
+		    <url>http://54.209.158.188:8081/repository/b13-repositary/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.209.158.188:8081/repository/b13-repositary/</url>
+		    <url>http://54.209.158.188:8081/repository/b13-repo/</url>
 		</repository>
   	</distributionManagement>
 	
